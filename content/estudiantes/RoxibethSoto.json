@@ -1,1 +1,19 @@
-
+{
+    "name":"Roxibeth Soto",
+    "aboutMe":"Soy Roxibeth, una estudiante apasionado de la Ingeniería en Informática. Actualmente me encuentro cursando 8vo semestre en la UNELLEZ. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática",
+    "softSkills":[
+        "Liderazgo",
+        "Comunicación",
+        "Adaptabilidad",
+        "Responsabilidad"
+    ],
+    "techSkills":[
+        "HTML/CSS"
+    ],
+    "contact":[
+        {"name":"Github",
+        "url":"https://github.com/roxibethdelvsllesotoparedes-art",
+        "icon":"mdiGithub"
+        }
+    ]
+}
